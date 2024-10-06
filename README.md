@@ -2,9 +2,14 @@
 
 <p align="center">
   <a href="https://TearDropengine.org">
-    <img src="logo_outlined.svg" width="400" alt="TearDrop Engine logo">
+    <img src="cryaboutlogo3.png" width="600" alt="TearDrop Engine logo">
   </a>
 </p>
+
+
+## Keep them out
+
+You know who ;)
 
 ## 2D and 3D cross-platform game engine
 
@@ -24,12 +29,6 @@ to the last line of engine code. TearDrop's development is fully independent and
 community-driven, empowering users to help shape their engine to match their
 expectations. It is supported by the [TearDrop Foundation](https://TearDrop.foundation/)
 not-for-profit.
-
-Before being open sourced in [February 2014](https://github.com/TearDropengine/TearDrop/commit/0b806ee0fc9097fa7bda7ac0109191c9c5e0a1ac),
-TearDrop had been developed by [Juan Linietsky](https://github.com/reduz) and
-[Ariel Manzur](https://github.com/punto-) (both still maintaining the project)
-for several years as an in-house engine, used to publish several work-for-hire
-titles.
 
 ![Screenshot of a 3D scene in the TearDrop Engine editor](https://raw.githubusercontent.com/TearDropengine/TearDrop-design/master/screenshots/editor_tps_demo_1920x1080.jpg)
 
